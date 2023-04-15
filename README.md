@@ -1,13 +1,14 @@
 # github-final-project
 ## My final project
 
-<span style="color blue"> A calculator that calculate simple interests given principle, anual rate of interest **and** time period **in** years. </span>
+#1589F0 A calculator that calculate simple interests given principle, anual rate of interest **and** time period **in** years.
 
-<span style="color red"> Input </span>:
-<span style="color blue">
+Input 
+
 p, principal amount 
 t, time perion **in** years
 r, anual rate of interest 
-  </span>
-<span style="color red"> Output </span>:
-<span style="color blue"> simple interest = p*t*r </span>
+
+Output
+
+simple interest = $\p*t*r$ 
