@@ -1,7 +1,7 @@
 # github-final-project
 My final project
 
-print("A calculator that calculate simple interests given principle, anual rate of interest and time period in years.")
+A calculator that calculate simple interests given principle, anual rate of interest and time period in years.
 
 Input:
 p, principal amount 
